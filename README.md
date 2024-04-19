@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ggioma
-- 👀 I’m interested to experience coders life
-- 🌱 I’m currently learning Python thinking style (syntax)
-- 💞️ I’m looking to collaborate on 
+- 👀 I’m interested to experience AI 
 - 📫 How to reach me? Look Upward:)
 
 <!---
